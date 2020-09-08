@@ -1,0 +1,280 @@
+Number  1 comes up  every -4 days.
+Number  1 last came up  6  7 2012.
+Number  1   due by:     6  3 2012.
+
+Number  2 comes up  every -4 days.
+Number  2 last came up  6  5 2012.
+Number  2   due by:     6  1 2012.
+
+Number  3 comes up  every -4 days.
+Number  3 last came up  6  6 2012.
+Number  3   due by:     6  2 2012.
+
+Number  4 comes up  every -4 days.
+Number  4 last came up  6  8 2012.
+Number  4   due by:     6  4 2012.
+
+Number  5 comes up  every -4 days.
+Number  5 last came up  6  5 2012.
+Number  5   due by:     6  1 2012.
+
+Number  6 comes up  every -4 days.
+Number  6 last came up  6  5 2012.
+Number  6   due by:     6  1 2012.
+
+Number  7 comes up  every -4 days.
+Number  7 last came up  6  7 2012.
+Number  7   due by:     6  3 2012.
+
+Number  8 comes up  every -4 days.
+Number  8 last came up  6  6 2012.
+Number  8   due by:     6  2 2012.
+
+Number  9 comes up  every -4 days.
+Number  9 last came up  6 15 2012.
+Number  9   due by:     6 11 2012.
+
+Number 10 comes up  every -4 days.
+Number 10 last came up  6  5 2012.
+Number 10   due by:     6  1 2012.
+
+Number 11 comes up  every -4 days.
+Number 11 last came up  6  7 2012.
+Number 11   due by:     6  3 2012.
+
+Number 12 comes up  every -4 days.
+Number 12 last came up  6  6 2012.
+Number 12   due by:     6  2 2012.
+
+Number 13 comes up  every -4 days.
+Number 13 last came up  6  7 2012.
+Number 13   due by:     6  3 2012.
+
+Number 14 comes up  every -4 days.
+Number 14 last came up  6  9 2012.
+Number 14   due by:     6  5 2012.
+
+Number 15 comes up  every -4 days.
+Number 15 last came up  6  8 2012.
+Number 15   due by:     6  4 2012.
+
+Number 16 comes up  every -4 days.
+Number 16 last came up  6  7 2012.
+Number 16   due by:     6  3 2012.
+
+Number 17 comes up  every -4 days.
+Number 17 last came up  6  6 2012.
+Number 17   due by:     6  2 2012.
+
+Number 18 comes up  every -4 days.
+Number 18 last came up  6  6 2012.
+Number 18   due by:     6  2 2012.
+
+Number 19 comes up  every -4 days.
+Number 19 last came up  6 11 2012.
+Number 19   due by:     6  7 2012.
+
+Number 20 comes up  every -4 days.
+Number 20 last came up  6  8 2012.
+Number 20   due by:     6  4 2012.
+
+Number 21 comes up  every -4 days.
+Number 21 last came up  6  9 2012.
+Number 21   due by:     6  5 2012.
+
+Number 22 comes up  every -4 days.
+Number 22 last came up  6  6 2012.
+Number 22   due by:     6  2 2012.
+
+Number 23 comes up  every -4 days.
+Number 23 last came up  6 12 2012.
+Number 23   due by:     6  8 2012.
+
+Number 24 comes up  every -4 days.
+Number 24 last came up  6  7 2012.
+Number 24   due by:     6  3 2012.
+
+Number 25 comes up  every -4 days.
+Number 25 last came up  6  5 2012.
+Number 25   due by:     6  1 2012.
+
+Number 26 comes up  every -4 days.
+Number 26 last came up  6 10 2012.
+Number 26   due by:     6  6 2012.
+
+Number 27 comes up  every -4 days.
+Number 27 last came up  6  5 2012.
+Number 27   due by:     6  1 2012.
+
+Number 28 comes up  every -4 days.
+Number 28 last came up  6  5 2012.
+Number 28   due by:     6  1 2012.
+
+Number 29 comes up  every -4 days.
+Number 29 last came up  6  7 2012.
+Number 29   due by:     6  3 2012.
+
+Number 30 comes up  every -4 days.
+Number 30 last came up  6 11 2012.
+Number 30   due by:     6  7 2012.
+
+Number 31 comes up  every -4 days.
+Number 31 last came up  6  6 2012.
+Number 31   due by:     6  2 2012.
+
+Number 32 comes up  every -4 days.
+Number 32 last came up  6  9 2012.
+Number 32   due by:     6  5 2012.
+
+Number 33 comes up  every -4 days.
+Number 33 last came up  6  9 2012.
+Number 33   due by:     6  5 2012.
+
+Number 34 comes up  every -4 days.
+Number 34 last came up  6  5 2012.
+Number 34   due by:     6  1 2012.
+
+Number 35 comes up  every -4 days.
+Number 35 last came up  6 11 2012.
+Number 35   due by:     6  7 2012.
+
+Number 36 comes up  every -4 days.
+Number 36 last came up  6 10 2012.
+Number 36   due by:     6  6 2012.
+
+Number 37 comes up  every -4 days.
+Number 37 last came up  6 14 2012.
+Number 37   due by:     6 10 2012.
+
+Number 38 comes up  every -4 days.
+Number 38 last came up  6  7 2012.
+Number 38   due by:     6  3 2012.
+
+Number 39 comes up  every -4 days.
+Number 39 last came up  6  6 2012.
+Number 39   due by:     6  2 2012.
+
+Number 40 comes up  every -4 days.
+Number 40 last came up  6  5 2012.
+Number 40   due by:     6  1 2012.
+
+Number 41 comes up  every -4 days.
+Number 41 last came up  6  7 2012.
+Number 41   due by:     6  3 2012.
+
+Number 42 comes up  every -4 days.
+Number 42 last came up  6  8 2012.
+Number 42   due by:     6  4 2012.
+
+Number 43 comes up  every -4 days.
+Number 43 last came up  6  6 2012.
+Number 43   due by:     6  2 2012.
+
+Number 44 comes up  every -4 days.
+Number 44 last came up  6  6 2012.
+Number 44   due by:     6  2 2012.
+
+Number 45 comes up  every -4 days.
+Number 45 last came up  6  5 2012.
+Number 45   due by:     6  1 2012.
+
+Number 46 comes up  every -4 days.
+Number 46 last came up  6  9 2012.
+Number 46   due by:     6  5 2012.
+
+Number 47 comes up  every -4 days.
+Number 47 last came up  6  6 2012.
+Number 47   due by:     6  2 2012.
+
+Number 48 comes up  every -4 days.
+Number 48 last came up  6  6 2012.
+Number 48   due by:     6  2 2012.
+
+Number 49 comes up  every -4 days.
+Number 49 last came up  6  7 2012.
+Number 49   due by:     6  3 2012.
+
+Number 50 comes up  every -4 days.
+Number 50 last came up  6  5 2012.
+Number 50   due by:     6  1 2012.
+
+Number 51 comes up  every -4 days.
+Number 51 last came up  6  5 2012.
+Number 51   due by:     6  1 2012.
+
+Number 52 comes up  every -4 days.
+Number 52 last came up  6  5 2012.
+Number 52   due by:     6  1 2012.
+
+Number 53 comes up  every -4 days.
+Number 53 last came up  6 16 2012.
+Number 53   due by:     6 12 2012.
+
+Number 54 comes up  every -4 days.
+Number 54 last came up  6  5 2012.
+Number 54   due by:     6  1 2012.
+
+Number 55 comes up  every -4 days.
+Number 55 last came up  6  5 2012.
+Number 55   due by:     6  1 2012.
+
+Number 56 comes up  every -4 days.
+Number 56 last came up  6 11 2012.
+Number 56   due by:     6  7 2012.
+
+Number 57 comes up  every -4 days.
+Number 57 last came up  6  5 2012.
+Number 57   due by:     6  1 2012.
+
+Number 58 comes up  every -4 days.
+Number 58 last came up  6  6 2012.
+Number 58   due by:     6  2 2012.
+
+Number 59 comes up  every -4 days.
+Number 59 last came up  6  5 2012.
+Number 59   due by:     6  1 2012.
+
+Number 60 comes up  every -4 days.
+Number 60 last came up  6  7 2012.
+Number 60   due by:     6  3 2012.
+
+Number 61 comes up  every -4 days.
+Number 61 last came up  6  9 2012.
+Number 61   due by:     6  5 2012.
+
+Number 62 comes up  every -4 days.
+Number 62 last came up  6  5 2012.
+Number 62   due by:     6  1 2012.
+
+Number 63 comes up  every -4 days.
+Number 63 last came up  6 12 2012.
+Number 63   due by:     6  8 2012.
+
+Number 64 comes up  every -4 days.
+Number 64 last came up  6  6 2012.
+Number 64   due by:     6  2 2012.
+
+Number 65 comes up  every -4 days.
+Number 65 last came up  6 11 2012.
+Number 65   due by:     6  7 2012.
+
+Number 66 comes up  every -4 days.
+Number 66 last came up  6 12 2012.
+Number 66   due by:     6  8 2012.
+
+Number 67 comes up  every -4 days.
+Number 67 last came up  6  5 2012.
+Number 67   due by:     6  1 2012.
+
+Number 68 comes up  every -4 days.
+Number 68 last came up  6 12 2012.
+Number 68   due by:     6  8 2012.
+
+Number 69 comes up  every -4 days.
+Number 69 last came up  6  5 2012.
+Number 69   due by:     6  1 2012.
+
+Number 70 comes up  every -4 days.
+Number 70 last came up  6  8 2012.
+Number 70   due by:     6  4 2012.
+
